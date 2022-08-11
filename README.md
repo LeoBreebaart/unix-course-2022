@@ -4,6 +4,7 @@ This repository contains support files for the 2022 Unix/Linux command-line for 
 - Check out a copy of this respository on your local Unix/Linux system. (Either by using `git clone` or by downloading it as a zip file and then unzipping it locally with `unzip`)
 
 - Untar the `exercises.tgz` archive, **AS THE ROOT SUPERUSER**:
-    $ sudo tar xvf exercises.tgz
 
-
+      $ sudo tar xvf exercises.tgz
+      
+- Read the file *exercises.pdf* and give the exercises a go!
