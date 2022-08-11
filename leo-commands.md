@@ -2,21 +2,6 @@ Leo's Frequently Used Unix/Linux commands
 =========================================
 
 
-Process tools
--------------
-
-    bg
-    crontab
-    fg
-    htop
-    kill
-    lsof
-    ps
-    tee
-    time
-    top
-
-
 Shell / Environment / System tools
 ----------------------------------
 
@@ -107,6 +92,21 @@ Text tools
     tail
     uniq
     wc
+
+
+Process tools
+-------------
+
+    bg
+    crontab
+    fg
+    htop
+    kill
+    lsof
+    ps
+    tee
+    time
+    top
 
 
 Superuser tools
