@@ -70,7 +70,6 @@ File tools
     tree
     unzip
     zip
-    zmore
 
 
 Text tools
@@ -92,6 +91,7 @@ Text tools
     tail
     uniq
     wc
+    zmore
 
 
 Process tools
@@ -104,6 +104,7 @@ Process tools
     kill
     lsof
     ps
+    pstree
     tee
     time
     top
@@ -135,6 +136,8 @@ Networking tools
     host
     ifconfig
     iftop
+    ip
+    netcat
     netstat
     nslookup
     ping
